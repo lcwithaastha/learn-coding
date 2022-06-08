@@ -1,0 +1,44 @@
+header{
+    margin: 0;
+    padding: 0;
+    background: darkred ;
+    text-align: center;
+    
+}
+h1{
+    font-size: 80px;
+    font-style: oblique;
+    display:inline;
+    color: white;
+    padding:0px;
+}
+
+nav{background-color: ;
+
+    background-color:black; 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+
+.a2{
+    float:left;
+    color: white;
+    text-align:center;
+    padding:15px ;
+    text-decoration:none;
+    
+    max-width: 90%;
+    font-size:30px;
+    font-weight:bold;
+}
+a:hover{
+    color:brown;
+    background-color: aqua;
+}
+p{
+    color: brown;
+    display: block;
+}
